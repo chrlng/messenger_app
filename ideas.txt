@@ -1,0 +1,6 @@
+Info to display:
+- number of messages you sent 
+- number of messages you received
+- then show these by monthly graph 
+- number of group chats
+- list top 3 people you exchanged the most messages with 
