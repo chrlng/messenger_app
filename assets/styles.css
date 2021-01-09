@@ -1,0 +1,29 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.side-font {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.main-font {
+    font-family: 'Raleway', sans-serif;
+}
+
+.white-font{
+    color: white;
+}
+
+
